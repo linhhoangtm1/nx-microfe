@@ -1,0 +1,1 @@
+(self.webpackChunkshop=self.webpackChunkshop||[]).push([[283],{7283:(e,a,h)=>{h.r(a),h.d(a,{default:()=>p.default});var p=h(2230)}}]);

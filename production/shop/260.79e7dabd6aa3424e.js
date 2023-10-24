@@ -1,0 +1,1 @@
+(self.webpackChunkshop=self.webpackChunkshop||[]).push([[260,826],{3260:()=>{}}]);

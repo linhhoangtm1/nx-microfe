@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --primary-color: #D19C97;
+    --secondary-color: #EDF1FF;
+    --muted-color: #6f6f6f;
+    --light-color: #ffffff;
+    --dark-color: #1c1c1c;
+}
+
+$theme: (
+    primary: var(--primary-color),
+    secondary: var(--secondary-color),
+    muted: var(--muted-color),
+    light: var(--light-color),
+    dark: var(--dark-color),
+);
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: var(--muted-color)
+}
+
+@import './assets/styles/utilities.scss';
+@import './assets/styles/form.scss';
+@import './assets/styles/button.scss';
+@import './assets/styles/border.scss';
+@import './assets/styles/badge.scss';
+@import './assets/styles/table.scss';
+@import './assets/styles/slick.scss';

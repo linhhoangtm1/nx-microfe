@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Shirt",
+    "priceNew": 123,
+    "priceOld": 400,
+    "stock": 300,
+    "image": "http://localhost:4203/assets/images/product-1.jpg",
+    "reviews": 4,
+    "rate": 3
+  },
+  {
+    "id": 2,
+    "name": "Shirt 2",
+    "priceNew": 111,
+    "priceOld": 333,
+    "image": "http://localhost:4203/assets/images/product-2.jpg",
+    "stock": 300,
+    "rate": 5,
+    "reviews": 1
+  },
+  {
+    "id": 3,
+    "name": "Shirt 3",
+    "priceNew": 100,
+    "image": "http://localhost:4203/assets/images/product-3.jpg",
+    "priceOld": 400,
+    "stock": 10,
+    "rate": 5,
+    "reviews": 0
+  },
+  {
+    "id": 4,
+    "name": "Shirt 4",
+    "priceNew": 311,
+    "image": "http://localhost:4203/assets/images/product-4.jpg",
+    "priceOld": 400,
+    "stock": 2,
+    "rate": 2,
+    "reviews": 5
+  }
+]
